@@ -3,7 +3,7 @@
 
 ## Personal Portfolio
 
-**Live preview: [Click me](https://santoshshk7.netlify.app/)**
+**Live preview: [Click me](https://my-portfolio-jade-gamma-27.vercel.app/)**
 
 ---
 
